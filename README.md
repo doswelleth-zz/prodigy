@@ -81,7 +81,7 @@ This ensures initialized contracts get executed and settled.
 
 Players and parties are notably unknown to one another and are self-interestedly incentivized to legitimize contracts. 
 
-Random parties may browse the parties section of the website and inspect uninitialized contracts, and work on them for a fee of 1% of given contract's price.
+Random parties may browse the parties section of the website and inspect uninitialized contracts, and work on them for a fee of 1% of a given contract's price.
 
 Our random player must **conform to the contract** to prepare it for initialization by a random party, after a student accepts the contract and submits an answer to its problem:
 
