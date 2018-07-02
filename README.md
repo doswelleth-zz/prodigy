@@ -72,8 +72,7 @@ The random party does not see the answer of a contract: a minimized version of t
 
 The answer field is blank.
 
-The random party owns a one-time signature which is used to sign the contract by either the student or player when the answer is revealed. This is done by the random
-party being tasked to solve the problem themselves in exchange for 1% of the contract price.
+The random party owns a one-time [signature](https://en.wikipedia.org/wiki/Digital_signature) which is used to sign the contract by either the student or player when the answer is revealed. This is done by the random party being tasked to solve the problem themselves in exchange for 1% of the contract price.
 
 Random parties risk nothing to solve problems so they earn less. The incentive is satoshis earned for problems solved. 
 
