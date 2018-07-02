@@ -46,7 +46,7 @@ The problem is a user interface such as
     
 or 
 
-    “What is the point of rest, or support, on which a lever pivots?” 
+    “What control valve actuator converts energy into mechanical motion?” 
     
 
 The rigor of the problem is associated with the price of the contract and decided by a random player, the contract initializer.
