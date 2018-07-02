@@ -71,9 +71,9 @@ How might we prevent random players from designing contracts with incorrect answ
 
 Prodigy selects an additional random player, a non-interactive oracle who I call a **random party**, to confirm the random player's answer. 
 
-The random party does not see the answer of a contract: a minimized version of the contract is revealed to randomized parties, namely the title, problem, and answer fields.
+The random party does not see the answer of a contract: a minimized version of the contract is revealed to randomized parties, namely the contract's title, its problem and answer fields.
 
-The answer field is blank.
+The title and problem fields are explicit. The answer field is blank.
 
 The random party owns a one-time [signature](https://en.wikipedia.org/wiki/Digital_signature) which is used to sign the contract by either the student or player when the answer is revealed. This is done by the random party being tasked to solve the problem themselves in exchange for 1% of the contract price.
 
@@ -81,7 +81,7 @@ Random parties risk nothing to solve problems so they earn less. The incentive i
 
 This ensures initialized contracts get executed and settled.
 
-Players and parties are notably unknown to one another and are self-interestedly incentivized to legitimize contracts. 
+Players and parties are notably unknown to one another and are self-interestedly invested in settling contracts. 
 
 Random parties may browse the parties section of the website and inspect uninitialized contracts, and work on them for a fee of 1% of a given contract's price.
 
