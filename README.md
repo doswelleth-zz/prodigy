@@ -1,3 +1,6 @@
+![prodigylogo](https://user-images.githubusercontent.com/25995735/42149806-a709141a-7da5-11e8-83ae-6bb1a4c006f3.png)
+
+
 ## Vision
 
     a voluntary world for learning, free markets, and peaceful negotiations
