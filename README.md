@@ -17,7 +17,7 @@
 
 Prodigy is a crowdsourcing platform for solving problems. The project uses [discrete log contracts](https://adiabat.github.io/dlc.pdf) on the Bitcoin network to settle the resulting solution. 
 
-Prodigy is a non-cooperative single player game made up of two counterparties: random players and random students.
+Prodigy is a non-cooperative single player game made up of two counterparties: **random players** and **random students**.
 
 Random players design problems for students to solve in exchange for bitcoins. To initialize a contract, each party stakes an equal amount of bitcoins from their personal wallets. This amount is denominated in satoshis, the smallest unit of a bitcoin. 
 
