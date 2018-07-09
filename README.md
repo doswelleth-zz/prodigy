@@ -61,7 +61,7 @@ However, it is not in the interest of a random player to structure questions in 
 
 A random player's goal isn’t to stump students. The goal is to get students to think, and to be rewarded for thinking and working through problems.
 
-Students are encouraged to work together. Parents are even expected to help students solve problems in exchange for satoshis. For this reason, I encourage students to host their own wallets and control their private keys.
+Students are encouraged to work together. Parents are even expected to help students solve problems in exchange for satoshis. For this reason, I encourage students to [host their own wallets](https://bitcoin.org/en/wallets/desktop/mac/bitcoincore/) and [control their private keys](https://bitcoin.org/en/wallets/mobile/ios/brd/).
 
 <br>
 
