@@ -42,7 +42,7 @@ I am interested in a world where a random person initializes a discrete log cont
 
 The problem is a user interface such as 
 
-    “The Sistine Chapel stands on the foundation of what older chapel?" 
+    “A gold cover with two cherubim sits atop of what religious artifact?" 
     
 or 
 
@@ -55,7 +55,7 @@ Prodigy’s problems are STEAM (science, technology, engineering, art, mathemati
 
 These answers should be structured in the contract in such a way that the student gets the answer right if the answer is factually correct.
 
-For instance, if the question is “Give an example of a runtime environment for modern web applications,” the answer may be “Javascript Runtime Environment (JRE)” or “.NET Runtime.” Both answers are correct.
+For instance, if the question is “Give an example of a runtime environment for modern web applications,” the answer may be “Javascript Runtime Environment” or “.NET Runtime.” Both answers are correct.
 
 However, it is not in the interest of a random player to structure questions in such ways, as the opportunity for students to solve them increases to O(log)n.
 
@@ -75,7 +75,7 @@ The random party does not see the answer of a contract: a minimized version of t
 
 The title and problem fields are explicit. The answer field is blank.
 
-The random party owns a one-time [signature](https://en.wikipedia.org/wiki/Digital_signature) which is used to sign the contract by either the student or player when the answer is revealed. This is done by the random party being tasked to solve the problem themselves in exchange for 1% of the contract price.
+The random party owns a one-time [signature](https://en.wikipedia.org/wiki/Digital_signature) which is used to sign the contract by either the student or player when the answer is revealed. This is done by the random party being tasked to solve the problem themselves in exchange for 10% of the contract price.
 
 Random parties risk nothing to solve problems so they earn less. The incentive is satoshis earned for problems solved. 
 
@@ -83,7 +83,7 @@ This ensures initialized contracts get executed and settled.
 
 Players and parties are notably unknown to one another and are self-interestedly invested in settling contracts. 
 
-Random parties may browse the parties section of the website and inspect uninitialized contracts, and work on them for a fee of 1% of a given contract's price.
+Random parties may browse the parties section of the website and inspect uninitialized contracts, and work on them for a fee of 10% of a given contract's price.
 
 Our random player must **conform to the contract** to prepare it for initialization by a random party, after a student accepts the contract and submits an answer to its problem:
 
@@ -93,9 +93,7 @@ Our random player must **conform to the contract** to prepare it for initializat
     
     3. Problems are solvable.
    
-    4. A Random Party has been compensated 1% of the contract by the contract initializer for confirming the answer to the contract's problem.
-    
-    5. A Random Player has paid the initialization threshold of the contract, 1% of the contract’s value, for participating in a free market.
+    4. A Random Party has been compensated 10% of the contract by the contract initializer for confirming the answer to the contract's problem.
 
 
 I call this process conforming to the contract.
