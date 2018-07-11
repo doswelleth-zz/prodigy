@@ -24,7 +24,7 @@ Prodigy is a non-cooperative single player game made up of two counterparties: *
 
 Random players design problems for students to solve in exchange for bitcoins. To initialize a contract, each party stakes an equal amount of bitcoins from their personal wallets. This amount is denominated in satoshis, the smallest unit of a bitcoin. 
 
-When a student answers a question correctly, the contract executes and the student receives the random player’s stake. When a student gets the answer wrong, the contract executes and the student loses their stake to the random player.
+When a student answers a question correctly, the contract executes and the student receives the random player’s stake. When a student answers a question incorrectly, the contract executes and the student loses their stake to the random player.
 
 Each contract has a different value. The harder the problem, the higher the value of the contract and potentially the more satoshis a student can earn. 
 
