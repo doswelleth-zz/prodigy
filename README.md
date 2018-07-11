@@ -9,7 +9,6 @@
 
     a generation of highly educated and independently wealthy young people
 
-<hr>
 
 ## Prodigy
 ### a peer-to-peer electronic contract system
